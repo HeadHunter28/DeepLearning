@@ -9,7 +9,7 @@
 
 #### Link to Google colab notebook : https://colab.research.google.com/drive/11brqH_W29WWa4vSjcaAwM8E2M_N59w0f?usp=sharing
 
-#### The dataset is large in size, preferred running on cloud.
+#### The dataset is large in size, and training is time consuming, preferred running on cloud.
 
 
 

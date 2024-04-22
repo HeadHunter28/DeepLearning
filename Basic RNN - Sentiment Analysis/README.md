@@ -1,6 +1,6 @@
 ## Sentiment analysis on iMDB reviews using an RNN
 
-### Objective : Build an RNN for classifying iMDB reviews as Positive/Negative (binary classification)
+### <u>Objective</u> : Build an RNN for classifying iMDB reviews as Positive/Negative (binary classification)
 
 #### 1. Doing basic NLP preprocessing on the data
 

@@ -1,4 +1,4 @@
-## Sentiment analysis on iMDB reviews using an RNN
+## Sentiment Analysis on iMDB reviews using an RNN
 
 ### <u>Objective</u> : Build a recurrent neural network for classifying iMDB reviews as Positive/Negative (binary classification)
 
@@ -9,3 +9,5 @@
  3. Implementing different neural networks with varying parameters for better performance. 
 
 ! Good basic reference for dealing with text data.
+
+Link to notebook : https://colab.research.google.com/drive/1KZZAIA6nQE0TufvLY6GSS3DvMOucvkCH?usp=sharing
